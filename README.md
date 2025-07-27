@@ -1,3 +1,3 @@
 # my-first-data-project
-basic analysis of india census data
-author- Shreya Chaturvedi
+The Basic analysis of india census data
+Author- Shreya Chaturvedi
